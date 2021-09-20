@@ -11,7 +11,7 @@ This is safe code there is 0 chance that your account will get banned.
 6. Choose any Custom Status as you want
 
 # Example
-![example](https://github.com/endowedtao/Steam-Hour-Booster/blob/main/example.JPG)
+![example](https://github.com/r6f/Steam-Hour-Booster/blob/main/example.JPG)
 
 # Additional Info
 You won´t be able to play on the account while idling the game.
